@@ -1,0 +1,22 @@
+{
+  "name": "web-inicial",
+  "version": "1.0.0",
+  "description": "esto és una prueba!!!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tserrano-css/web-inicial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tserrano-css/web-inicial/issues"
+  },
+  "homepage": "https://github.com/tserrano-css/web-inicial#readme",
+  "dependencies": {
+    "redux": "^4.0.5"
+  }
+}
